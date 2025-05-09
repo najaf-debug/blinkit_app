@@ -121,7 +121,7 @@ class CategoryScreen extends StatelessWidget {
               ),
             ],
           ),
-          SizedBox(height: 20),
+          SizedBox(height: 10),
           Row(
             children: [
               SizedBox(width: 20),
